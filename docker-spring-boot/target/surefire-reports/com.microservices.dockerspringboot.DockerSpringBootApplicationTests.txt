@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.microservices.dockerspringboot.DockerSpringBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.048 s <<< FAILURE! - in com.microservices.dockerspringboot.DockerSpringBootApplicationTests
+initializationError(com.microservices.dockerspringboot.DockerSpringBootApplicationTests)  Time elapsed: 0.01 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/hamcrest/SelfDescribing
+Caused by: java.lang.ClassNotFoundException: org.hamcrest.SelfDescribing
+
